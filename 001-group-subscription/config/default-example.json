@@ -1,0 +1,14 @@
+{
+    "facebook": {
+        "appId": "Facebook App ID",
+        "appSecret": "Facebook App Secret",
+        "pageAccessToken": "Facebook App Access Token",
+        "verifyToken": "Webhook Verify Token"
+    },
+    "app": {
+        "port": 3000,
+        "developmentKey": "If you want HTTPS, provide a key otherwise false.",
+        "developmentCert": "If you want HTTPS, provide a certificate otherwise false.",
+        "publicUrl": "The public facing URL to the app, for the webhooks."
+    }
+}

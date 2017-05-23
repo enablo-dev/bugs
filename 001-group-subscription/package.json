@@ -1,0 +1,16 @@
+{
+  "name": "001-group-subscription",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "config": "^1.26.1",
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "yargs": "^8.0.1"
+  }
+}
